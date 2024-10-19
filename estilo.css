@@ -220,7 +220,7 @@ a {
     border: none;
 }
 
- .texto h2{
+.texto h2 {
     font-family: Poppins;
     font-size: 16px;
     font-weight: 700;
@@ -237,29 +237,30 @@ a {
     text-align: center;
 
 }
-.foo{
+
+.foo {
     display: flex;
     justify-content: space-between;
     align-items: center
 }
 
-.foo img{
+.foo img {
     margin-right: 20px;
 }
 
-.tema h2{
+.tema h2 {
     font-family: Poppins;
     font-size: 16px;
     color: red;
 }
 
-.tema h1{
+.tema h1 {
     font-family: Poppins;
-    font-size: 36px; 
+    font-size: 36px;
     color: black;
 }
 
-input{
+input {
     width: 406px;
     height: 48px;
     top: 1594px;
@@ -269,4 +270,10 @@ input{
     opacity: 0px;
     margin-bottom: 30px;
     border: 1px solid #1F7CFF;
+}
+
+body {
+    text-align: justify;
+    margin-top: auto;
+    max-width: 1200px;
 }
